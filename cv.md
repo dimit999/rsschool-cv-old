@@ -10,7 +10,7 @@ Dmitry Ananyev CV
       - [**Linkedin**](https://www.linkedin.com/in/dmitry--ananyev/)
 
 3. The main goal:
-    I have more than 9 years of experience in the IT-sphere. More than 5 years I worked as a QA engineer (I have started as a simple QA engineer, after that, I was a QA manager), but all this time I thought about programming. So after learning of Python I have started to work as an Automation QA engineer and QA Lead. I have an amazing experience for now (I know how to create automated tests for WEB app, mobile web app (Android/IOS), how to work with Native apps, how to work with microservices, etc). But all this time I thought about development. I know everything from the QA side, now I want to look at what happens on dev side. I like to code, I want to spend all my time to write real programs. + 100% I will write good code, I am a QA, I am sure that it will help me to write a good program and help a company to earn money. I know that need to learn a lot, I have already finished some courses connected with JS, I ready to learn more. I spend all my free time on it. And now I have an amazing opportunity to show it.
+    > I have more than 9 years of experience in the IT-sphere. More than 5 years I worked as a QA engineer (I have started as a simple QA engineer, after that, I was a QA manager), but all this time I thought about programming. So after learning of Python I have started to work as an Automation QA engineer and QA Lead. I have an amazing experience for now (I know how to create automated tests for WEB app, mobile web app (Android/IOS), how to work with Native apps, how to work with microservices, etc). But all this time I thought about development. I know everything from the QA side, now I want to look at what happens on dev side. I like to code, I want to spend all my time to write real programs. + 100% I will write good code, I am a QA, I am sure that it will help me to write a good program and help a company to earn money. I know that need to learn a lot, I have already finished some courses connected with JS, I ready to learn more. I spend all my free time on it. And now I have an amazing opportunity to show it.
 
 4. Skills:
       > Technical stack:
@@ -45,4 +45,4 @@ Dmitry Ananyev CV
       * [html+css](https://www.udemy.com/course/html-css-from-zero/learn/lecture/15785012?start=0)
 
 7. English
-    For now, I live and work in Abu Dhabi (2 years). I have good practice in communication (Upper-intermediate). I know that I have mistakes in my grammar, I will tune it when I will work only with JS, because for now I don't have time :) Need to work on a job, need to learn JS.
+    > For now, I live and work in Abu Dhabi (2 years). I have good practice in communication (Upper-intermediate). I know that I have mistakes in my grammar, I will tune it when I will work only with JS, because for now I don't have time :) Need to work on a job, need to learn JS.
