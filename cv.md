@@ -45,4 +45,4 @@ Dmitry Ananyev CV
       * [html+css](https://www.udemy.com/course/html-css-from-zero/learn/lecture/15785012?start=0)
 
 7. English:
-    > For now, I live and work in Abu Dhabi (2 years). I have good practice in communication (Upper-intermediate). I know that I have mistakes in my grammar, I will tune it when I will work only with JS, because for now I don't have time :) Need to work on a job, need to learn JS.
+    > For now, I live and work in Abu Dhabi (2 years). I have a good practice in communication (Upper-intermediate). I know that I have mistakes in my grammar, I will tune it when I will work only with JS, because for now I don't have time :) Need to work on a job, need to learn JS.

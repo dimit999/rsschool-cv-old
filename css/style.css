@@ -1,10 +1,46 @@
 * {
   padding: 0;
   margin: 0;
+  font-style: normal;
+  background-color: #dadadd;
 }
 
+label {
+  display: block;
+  font: 1rem normal;
+}
+
+input,
+label {
+  margin: .4rem 0;
+}
+
+/* html {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+} */
+
 .CV {
+  margin-top: 20px;
+  margin-bottom: 20px;
   text-align: center;
+}
+
+.hr {
+  border: none;
+  background-color: red;
+  color: red;
+  height: 5px;
+ }
+
+.line {
+  border-left: 2px solid #ccc;
+  margin-left: 10px;
+  padding-left: 5px;
+}
+
+.section {
+  margin: 1%;
 }
 
 .container{
@@ -20,8 +56,12 @@
   padding-left: 30px;
 }
 
-.contacts-info, .tech-skills, .tech-skills-python, .responsibilities, .projects, .education, .courses {
+.contacts-info, .tech-skills, .tech-skills-python, .responsibilities, .projects, .edu, .courses {
   padding-left: 20px;
+}
+
+li.bold-titles {
+  font-weight: bold;
 }
 
 .photo {
@@ -32,5 +72,25 @@
   background-image: url('/img/cv_photo.jpg');
   background-repeat: no-repeat;
   background-position: center top;
-  border: 13px solid #ffffff
+  border: 13px solid #ffffff;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.block {
+  position: relative;
+  width: 1024px;
+  top: 44px;
+  margin: auto;
+}
+
+.footer {
+  margin-bottom: 60px;
+}
+
+@media (max-width: 1024px) {
+  body {
+    background-color: #c7edf0;
   }
+}
