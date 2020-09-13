@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.CV {
+  text-align: center;
+}
+
+.container{
+  margin: auto;
+  justify-content: center;
+  justify-content: flex-start;
+  justify-content: flex-end;
+  justify-content: space-around;
+  justify-content: space-between;
+}
+
+.numbers {
+  padding-left: 30px;
+}
+
+.contacts-info, .tech-skills, .tech-skills-python, .responsibilities, .projects, .education, .courses {
+  padding-left: 20px;
+}
+
+.photo {
+  width: 550px;
+  height: 389px;
+  background-color: #ffffff;
+  border-radius: 100%;
+  background-image: url('/img/cv_photo.jpg');
+  background-repeat: no-repeat;
+  background-position: center top;
+  border: 13px solid #ffffff
+  }
