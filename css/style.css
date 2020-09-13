@@ -67,7 +67,7 @@ li.bold-titles {
   height: 389px;
   background-color: #ffffff;
   border-radius: 100%;
-  background-image: url('/img/cv_photo.jpg');
+  background-image: url('img/cv_photo.jpg');
   background-repeat: no-repeat;
   background-position: center top;
   border: 13px solid #ffffff;
